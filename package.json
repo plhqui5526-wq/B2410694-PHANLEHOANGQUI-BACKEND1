@@ -2,7 +2,7 @@
   "name": "b2410694-phanlehoangqui-backend1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/plhqui5526-wq/B2410694-PHANLEHOANGQUI-BACKEND1.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hoang Qui",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
